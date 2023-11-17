@@ -1,7 +1,7 @@
 ## Cryptocurrencies Analysis
 
 ### Overview:
-One of our most important clients, Accountability Accounting, is planning to offer a new cryptocurrency investment porfolio. They've tasked us with creating a report and classification system for currencies on the crypto trading market. Unsupervised machine learning methods will be used since we're not predicting any known outputs.
+One of our most important clients, Accountability Accounting, is planning to offer a new cryptocurrency investment porfolio. They've tasked us with creating a report and classification system for currencies on the crypto trading market. Unsupervised machine learning methods will be used since we are not predicting any known outputs.
 
 ### Process:
  - To begin, the dataset was first preprocessed (fields dropped, text fields changed, features standardized) so it could then be used in Principal Component Analysis (PCA).
